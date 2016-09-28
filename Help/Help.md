@@ -4,7 +4,7 @@
 
 ### Gradient maps
 
-![](Help/images/gradient-maps.gif)
+![](images/gradient-maps.gif)
 
 -----
 
