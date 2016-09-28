@@ -8,6 +8,12 @@
 
 -----
 
+Premade styles are available for Photoshop, Illustrator, Sketch, and Affinity Designer.
+
+![](Help/images/styles.png)
+
+-----
+
 TODO: Usage example goes here.
 
 -----
