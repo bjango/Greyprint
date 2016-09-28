@@ -14,7 +14,11 @@ Premade styles are available for Photoshop, Illustrator, Sketch, and Affinity De
 
 -----
 
-TODO: Usage example goes here.
+Here’s an example using the Greyprint templates and styles to draw a shuffle icon in Illustrator.
+
+![](Help/images/arrow-speed-run.gif)
+
+The 10%, 20%, 30% and 40% opacity styles can be used to constuct guide shapes, or make positioning of other objects apperent. The black fill, white fill and stroke styles cover many commonly used styles, avoiding slow manual editing.
 
 -----
 
