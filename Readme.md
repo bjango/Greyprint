@@ -2,23 +2,33 @@
 
 # Greyprint
 
-[Greyprint](https://bjango.com/designresources/) is a set of templates with premade styles to assist icon, symbol, and glyph design. The templates are built for Photoshop, Illustrator, Sketch, and Affinity Designer. All free and open source, released under the [BSD license](https://github.com/bjango/Greyprint/blob/master/Help/License.md).
+[Greyprint](https://bjango.com/designresources/) is a set of templates with pre-made styles to assist icon, symbol, and glyph design. The templates are built for Photoshop, Illustrator, Sketch, and Affinity Designer. All free and open source, released under the [BSD license](https://github.com/bjango/Greyprint/blob/master/Help/License.md).
 
 **Download:** **[Greyprint](https://github.com/bjango/Greyprint/archive/master.zip)** — 1.0 ([version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md))
 
 -----
 
-Premade styles are available for Photoshop, Illustrator, Sketch, and Affinity Designer.
+Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity Designer.
 
 ![](Help/images/styles.png)
 
+### Help
+
+- [Item 1]()
+- [Item 2]()
+- [Item 3]()
+- [Item 4]()
+- [Item 5]()
+
 -----
 
-Here’s an example using the Greyprint templates and styles to draw a shuffle icon in Illustrator.
+Here is an example using the Greyprint template and styles to draw a shuffle icon in Illustrator.
 
 ![](Help/images/arrow-speed-run.gif)
 
 The 10%, 20%, 30% and 40% opacity styles can be used to constuct guide shapes, or make positioning of other objects apperent. The black fill, white fill and stroke styles cover many commonly used styles, avoiding slow manual editing.
+
+Greyprint exists to give you a bunch of white boxes to fill with your amazing icons, and the styles needed to build those icons quickly.
 
 -----
 
