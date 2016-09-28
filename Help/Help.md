@@ -2,6 +2,10 @@
 
 - [Feedback and future plans]()
 
+### Gradient maps
+
+![](Help/images/gradient-maps.gif)
+
 -----
 
 ### Feedback and future plans
