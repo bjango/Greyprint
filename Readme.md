@@ -14,11 +14,10 @@ Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity D
 
 ### Help
 
-- [Item 1]()
-- [Item 2]()
-- [Item 3]()
-- [Item 4]()
-- [Item 5]()
+- [Templates]()
+- [Styles]()
+- [Gradient maps]()
+- [Feedback and future plans]()
 
 -----
 
