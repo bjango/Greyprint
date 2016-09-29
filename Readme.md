@@ -1,4 +1,4 @@
-![](Help/images/templates-hero.png)
+![](Help/images/greyprint-hero.png)
 
 # Greyprint
 
