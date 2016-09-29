@@ -31,9 +31,9 @@ Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity D
 
 ### Gradient maps
 
-For design tools that have gradient maps (Photoshop and Affinity Designer), a `Colourise` group is included in the templates. Turning it on will apply one of the enclosed gradient maps to 
+For design tools that have gradient maps (Photoshop and Affinity Designer), a `Colourise` group is included in the templates. Turning it on will apply one of the enclosed gradient maps. 
 
-Not only does this look ace, it also inverts things — black icons white become white icons on varying coloured backgrounds. This means it’s possible to use the Greyprint styles to create black icons on a white background, and also preview them as you edit as white icons on a coloured background.
+Not only do they look ace, they also invert everything — black icons on white become white icons on varying coloured backgrounds. This means it’s possible to use the Greyprint styles to create black icons, but preview them as you edit as white icons on a coloured background.
 
 ![](images/gradient-maps.gif)
 
