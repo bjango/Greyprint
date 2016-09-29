@@ -23,7 +23,7 @@ Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity D
 
 -----
 
-Here is an example using the Greyprint template and styles to draw a shuffle icon in Illustrator.
+Here is an example using a Greyprint template and styles to draw a shuffle icon in Illustrator.
 
 ![](Help/images/arrow-speed-run.gif)
 

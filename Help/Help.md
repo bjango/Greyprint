@@ -19,6 +19,8 @@ The Greyprint templates also include 12 pre-made styles, that can be used to rap
 
 The 10%, 20%, 30% and 40% opacity styles can be used to constuct guide shapes, or make positioning of other objects apperent. The black fill, white fill and stroke styles cover many commonly used styles, avoiding slow manual editing.
 
+Here is an example using a Greyprint template and styles to draw a shuffle icon in Illustrator.
+
 ![](images/arrow-speed-run.gif)
 
 Where possible, separate style files have also been saved: `Greyprint Styles.asl` for Photoshop, `Greyprint Styles.ait` for Illustrator, and `Greyprint Styles.afstyles` for Affinity Designer.
