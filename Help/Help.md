@@ -1,9 +1,11 @@
 # Greyprint help
 
-- [Templates]()
-- [Styles]()
-- [Gradient maps]()
-- [Feedback and future plans]()
+- [Templates](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#templates)
+- [Styles](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#styles)
+- [Gradient maps](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#gradient-maps)
+- [Version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md)
+- [License](https://github.com/bjango/Greyprint/blob/master/Help/Version History.md)
+- [Feedback and future plans](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#feedback-and-future-plans)
 
 ### Templates
 
@@ -17,13 +19,13 @@ The Greyprint templates also include 12 pre-made styles, that can be used to rap
 
 The 10%, 20%, 30% and 40% opacity styles can be used to constuct guide shapes, or make positioning of other objects apperent. The black fill, white fill and stroke styles cover many commonly used styles, avoiding slow manual editing.
 
-![](Help/images/arrow-speed-run.gif)
+![](images/arrow-speed-run.gif)
 
 Where possible, separate style files have also been saved: `Greyprint Styles.asl` for Photoshop, `Greyprint Styles.ait` for Illustrator, and `Greyprint Styles.afstyles` for Affinity Designer.
 
 Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity Designer.
 
-![](Help/images/styles.png)
+![](images/styles.png)
 
 ### Gradient maps
 

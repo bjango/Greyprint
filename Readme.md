@@ -14,10 +14,12 @@ Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity D
 
 ### Help
 
-- [Templates]()
-- [Styles]()
-- [Gradient maps]()
-- [Feedback and future plans]()
+- [Templates](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#templates)
+- [Styles](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#styles)
+- [Gradient maps](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#gradient-maps)
+- [Version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md)
+- [License](https://github.com/bjango/Greyprint/blob/master/Help/Version History.md)
+- [Feedback and future plans](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#feedback-and-future-plans)
 
 -----
 
