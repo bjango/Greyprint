@@ -2,6 +2,6 @@
 
 ### 1.0
 
-30 September 2016
+3 October 2016
 
 - Initial release.
