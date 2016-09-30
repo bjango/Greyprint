@@ -1,4 +1,4 @@
-![](Help/images/templates-hero.png)
+![](Help/images/greyprint-hero.png)
 
 # Greyprint
 
@@ -14,15 +14,16 @@ Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity D
 
 ### Help
 
-- [Item 1]()
-- [Item 2]()
-- [Item 3]()
-- [Item 4]()
-- [Item 5]()
+- [Templates](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#templates)
+- [Styles](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#styles)
+- [Gradient maps](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#gradient-maps)
+- [Version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md)
+- [License](https://github.com/bjango/Greyprint/blob/master/Help/License.md)
+- [Feedback and future plans](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#feedback-and-future-plans)
 
 -----
 
-Here is an example using the Greyprint template and styles to draw a shuffle icon in Illustrator.
+Here is an example using a Greyprint template and styles to draw a shuffle icon in Illustrator.
 
 ![](Help/images/arrow-speed-run.gif)
 
