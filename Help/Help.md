@@ -3,6 +3,7 @@
 - [Templates](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#templates)
 - [Styles](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#styles)
 - [Gradient maps](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#gradient-maps)
+- [Illustrator actions](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#illustrator-actions)
 - [Version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md)
 - [License](https://github.com/bjango/Greyprint/blob/master/Help/License.md)
 - [Feedback and future plans](https://github.com/bjango/Greyprint/blob/master/Help/Help.md#feedback-and-future-plans)
@@ -36,6 +37,20 @@ For design tools that have gradient maps (Photoshop and Affinity Designer), a `C
 Not only do they look ace, they also invert everything — black icons on white become white icons on varying coloured backgrounds. This means it’s possible to use the Greyprint styles to create black icons, but preview them as you edit as white icons on a coloured background.
 
 ![](images/gradient-maps.gif)
+
+### Illustrator actions
+
+As an added bonus, the `Illustrator` folder includes some actions. These actions add single click shortcuts from some frequent actions I use. Maybe they’ll help you, too.
+
+**Add Anchor Points** and **Outline Stroke**: A quicker way to access the items under the `Object › Path` menu.
+
+**Nudge**: Eight nudge actions for 0.5px and 4px in all four directions. Quicker than editing your preferences or using the move window and typing in the distance needed.
+
+**Flip Horizontally** and **Flip Vertically**: As you’d expect, these flip the currently selected objects.
+
+**Scale by 50%, 200%, 300%, and 400%**: As you’d expect, these scale the currently selected objects by the denoted amount. Faster than double clicking the scale tool.
+
+To install the actions, choose `Load Actions` from the flyout menu in the Actions panel, and choose `Greyprint Actions.aia`. 
 
 -----
 
