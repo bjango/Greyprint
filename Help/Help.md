@@ -52,6 +52,8 @@ As an added bonus, the `Illustrator` folder includes some actions. These actions
 
 To install the actions, choose `Load Actions` from the flyout menu in the Actions panel, and choose `Greyprint Actions.aia`. 
 
+**Select Same Fill Color** and **Select Same Stroke Color**: A quicker way to access the items under the `Select › Same` menu.
+
 -----
 
 ### Feedback and future plans
