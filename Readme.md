@@ -31,6 +31,8 @@ The 10%, 20%, 30% and 40% opacity styles can be used to construct guide shapes, 
 
 Greyprint exists to give you a bunch of white boxes to fill with your amazing icons, and the styles needed to build those icons quickly.
 
+Using the Greyprint templates, I’ve been challenging myself to find the quickest way to create some common and not so common icons. All the icon speed runs I’ve created so far are in [this Imgur album](http://imgur.com/a/4scqU) as GIFs.
+
 -----
 
 Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
