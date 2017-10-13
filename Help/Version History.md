@@ -6,6 +6,7 @@
 
 - Tweaked the colours for the icon regions and labels (a bit heavier, icon areas work better with pixel grids showing).
 - Set the Photoshop, Illustrator and Affinity Designer documents to be sRGB.
+- Added Adobe Experience Design (XD) template.
 
 ### 1.1
 

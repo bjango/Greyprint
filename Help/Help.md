@@ -10,9 +10,7 @@
 
 ### Templates
 
-The Greyprint templates contain many 16×16, 24×24, 32×32, and 48×48 pixel single-origin organic, artisanally crafted pure white icon zones. These icon zones can be filled with your hopes and dreams. They can be filled with your wildest desires.
-
-Just kidding, they’re just normal white boxes. Lots and lots of white boxes. The same white boxes you could draw yourself in a few minutes. But, the point is, now you don’t have to. Now can you just fire up the Greyprint templates and be working in seconds.
+The Greyprint templates contain many 16×16, 24×24, 32×32, and 48×48 icon zones. These icon zones can be filled with your hopes and dreams. They can be filled with your wildest desires. Lots and lots of boxes. The same boxes you could draw yourself in a few minutes. But, the point is, now you don’t have to. Now can you just fire up the Greyprint templates and be working in seconds.
 
 ### Styles
 
@@ -26,7 +24,7 @@ Here is an example using a Greyprint template and styles to draw a shuffle icon 
 
 Where possible, separate style files have also been saved: `Greyprint Styles.asl` for Photoshop, `Greyprint Styles.ait` for Illustrator, and `Greyprint Styles.afstyles` for Affinity Designer.
 
-Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity Designer.
+Pre-made styles are available for Photoshop, Illustrator, Sketch, and Affinity Designer. The Adobe Experience Design (XD) templates don’t have pre-made styles, but they do have some saved colours you can use. 
 
 ![](images/styles.png)
 
