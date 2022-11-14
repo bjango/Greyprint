@@ -1,5 +1,19 @@
 # Greyprint version history
 
+### 1.3
+
+14 November 2022
+
+- Added offset path actions.
+- Added outline text action.
+- Added select same opacity action.
+- Added dashed stroke styles.
+- Added center points for icon areas.
+- Improved graphic style names.
+- Improved graphic style order.
+- Removed 4px move actions.
+- Removed background layer.
+
 ### 1.2
 
 13 October 2017

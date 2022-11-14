@@ -4,7 +4,7 @@
 
 [Greyprint](https://bjango.com/designresources/) is a set of templates with pre-made styles to assist icon, symbol, and glyph design. The templates are built for Photoshop, Illustrator, Sketch, Affinity Designer, and Experience Design (XD). Greyprint also includes some handy Illustrator actions for common icon design tasks. All free and open source, released under the [BSD license](https://github.com/bjango/Greyprint/blob/master/Help/License.md).
 
-**Download:** **[Greyprint](https://github.com/bjango/Greyprint/archive/master.zip)** — 1.2 ([version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md))
+**Download:** **[Greyprint](https://github.com/bjango/Greyprint/archive/master.zip)** — 1.3 ([version history](https://github.com/bjango/Greyprint/blob/master/Help/Version%20History.md))
 
 -----
 
